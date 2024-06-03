@@ -5,3 +5,7 @@ A End to End Data Engineering Project | REST | BING API | DATA FACTORY | DATA IN
 
 Orchestrating through Data Pipeline using Data Factory
 ![Screenshot (111)](https://github.com/GaneshkrishnaL/MS_BING_NEWS_ANALYTICS/assets/92093823/9e80e58c-97fc-4393-9613-d39ee353e440)
+
+# Power BI Reports
+![Screenshot 2024-06-03 015118](https://github.com/GaneshkrishnaL/MS_BING_NEWS_ANALYTICS/assets/92093823/67f1639a-8b30-46e1-84f9-b5d43bcbc07a)
+![Screenshot 2024-06-03 015134](https://github.com/GaneshkrishnaL/MS_BING_NEWS_ANALYTICS/assets/92093823/ca89e7e4-4c5f-4e7c-b064-6f80bcaf1829)
